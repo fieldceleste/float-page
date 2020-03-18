@@ -1,0 +1,13 @@
+.column {
+    width: 300px;
+    float: left;
+  }
+  .louis{
+      color:palevioletred;
+      font-size:30px;
+
+  }
+  .tame{
+      color:orangered;
+      font-size: 30px;
+  }
