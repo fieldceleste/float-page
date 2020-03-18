@@ -2,6 +2,13 @@
     width: 300px;
     float: left;
   }
+  .header{
+      color:purple;
+      font-size:45px;
+      font-family:'Times New Roman', Times, serif;
+      font-style: italic;
+
+  }
   .louis{
       color:palevioletred;
       font-size:30px;
@@ -10,4 +17,26 @@
   .tame{
       color:orangered;
       font-size: 30px;
+  }
+  .dua {
+      color:pink;
+      font-size:30px;
+  }
+  .louistour {
+      background-color: rgb(245, 217, 96);
+      font-size: 30px;
+      color:darkmagenta;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .tametour {
+    background-color: rgb(190, 220, 240);
+    font-size: 30px;
+    color:rgb(199, 14, 199);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .duatour {
+    background-color: rgb(240, 190, 236);
+    font-size: 30px;
+    color:rgb(199, 14, 199);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
