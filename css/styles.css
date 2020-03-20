@@ -1,12 +1,20 @@
+body {
+  background-color: darkseagreen;
+}
+
+
 .column {
     width: 300px;
     float: left;
+    position:relative;
   }
 .header{
       color:purple;
       font-size:45px;
       font-family:'Times New Roman', Times, serif;
       font-style: italic;
+      text-align: center;
+      position:relative;
   }
 .imglouis {
       padding-right:5px;
